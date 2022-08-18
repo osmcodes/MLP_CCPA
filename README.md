@@ -1,4 +1,21 @@
-# MLP_CCPA (Missing Link Prediction using Common Neighbor and Centrality based Parameterized Algorithm)
+Paper: Missing link prediction using common neighbor and centrality based parameterized algorithm
+
+
+
+@article{ahmad2020missing,
+  title={Missing link prediction using common neighbor and centrality based parameterized algorithm},
+  author={Ahmad, Iftikhar and Akhtar, Muhammad Usman and Noor, Salma and Shahnaz, Ambreen},
+  journal={Scientific reports},
+  volume={10},
+  number={1},
+  pages={1--9},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+
+
+
 #Other sources for datasets are below:
 
 http://users.csc.calpoly.edu/~dekhtyar/466-Fall2010/labs/lab07.html
